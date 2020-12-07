@@ -1,4 +1,4 @@
-## Assessment: Demonstrate the ability to use NPM, Typescript/Javascript, React, and be able to minimally extend a GraphQL API
+## Junior Dev Assessment: Demonstrate the ability to use NPM, Typescript/Javascript, React, and be able to minimally extend a GraphQL API
 
 ### Notes
 
