@@ -24,7 +24,8 @@ export const updateProject = ({patch: { id, name }}: { patch: Project}) => {
 
   // TODO: 
   // iterate through the projects array using a loop, 
-  // delete this object from the array
+  // find the object to update
+  // apply the patch changes
   // save this modified array back to the json file
   // 
   // example of returning a mock project 
